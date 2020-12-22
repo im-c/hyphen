@@ -1,0 +1,9 @@
+src
+lib/tests
+lib/buildPatterns*
+tex
+.eslintrc.js
+.prettierrc.json
+babel.config.js
+tsconfig.json
+yarn.lock
