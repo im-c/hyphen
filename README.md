@@ -10,6 +10,8 @@ const enPatternCache = enPatterns.map(preprocessPattern);
 const out = hyphenate("beautiful", enPatternCache, '|');
 // beau|ti|ful
 
+```
+
 ## Install
 
 ```
